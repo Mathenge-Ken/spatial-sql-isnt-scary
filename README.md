@@ -4,7 +4,3 @@ Spatial SQL offers the ability to work with vector- and raster-based geospatial 
 The queries in this repo were used during the webinar and can be used as a quick reference when learning PostGIS. 
 
 The data used during the webinar is all from the Windsor, Ontario open data portal: https://opendata.citywindsor.ca/
-
-The video of the webinar on April 7, 2022 is available here: https://youtu.be/V9rwY86rMKQ 
-
-Learn more about our past and upcoming webinars at https://lunageo.com/webinars/
